@@ -35,7 +35,7 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 ###Global variables:###
-REPLICATE_API_TOKEN = os.environ.get('REPLICATE_API_TOKEN', default='')
+REPLICATE_API_TOKEN = os.environ.get('REPLICATE_API_TOKEN', default='r8_A0GkvpcdM0y3NkLST6m1n7ATpNCVih444rRRk')
 #Your your (Replicate) models' endpoints:
 REPLICATE_MODEL_ENDPOINT7B = os.environ.get('REPLICATE_MODEL_ENDPOINT7B', default='')
 REPLICATE_MODEL_ENDPOINT13B = os.environ.get('REPLICATE_MODEL_ENDPOINT13B', default='')
