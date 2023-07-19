@@ -1,6 +1,8 @@
 
 import streamlit as st
 import replicate
+from dotenv import load_dotenv
+import os
 from utils import debounce_replicate_run
 
 # feel free to replace with your own logo
