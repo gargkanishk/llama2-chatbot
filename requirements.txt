@@ -49,3 +49,10 @@ tzlocal==4.3.1
 urllib3==2.0.3
 validators==0.20.0
 zipp==3.16.2
+urllib3==2.0.3
+idna==3.4
+charset-normalizer==3.2.0
+certifi==2023.5.7
+typing-extensions==4.7.1
+pydantic==1.10.11
+packaging==23.1

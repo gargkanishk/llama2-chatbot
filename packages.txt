@@ -1,1 +1,7 @@
+urllib3
+idna
+charset-nomalizer
+cerifi
 typing-extensions
+pydantic
+packaging
